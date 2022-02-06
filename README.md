@@ -1,3 +1,5 @@
+# [二十四点游戏探索](github.com/weiyinfu/point24)
+
 24点游戏规则如下：给定四个1~9之间的整数，这些整数之间可以进行四则运算，每个数字只能且必须使用一次，最终凑出24来。  
 例如：1 5 5 5 。
    
@@ -231,5 +233,7 @@
 [4/7=4/7, 4-4/7=24/7, 7*24/7=24]
 ```
 
-# 最后
-github.com/weiyinfu/point24
+# 相关资料
+* 维基百科：https://en.wikipedia.org/wiki/24_Game_(proprietary_card_game)
+* https://en.wikipedia.org/wiki/24_(puzzle)
+* https://github.com/auntyellow/24
